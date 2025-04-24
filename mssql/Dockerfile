@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/microsoft-mssql-server
-FROM mcr.microsoft.com/mssql/server:2019-CU16-ubuntu-20.04
+FROM mcr.microsoft.com/mssql/server:2019-latest
 
 WORKDIR /usr/src
 
